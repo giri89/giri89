@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science from C.V. Raman Global University (GPA: 8.88/10)
+- 🎓 B.Tech in Computer Science from C.V. Raman Global University
 - 💼 Currently training in **Full Stack Java Development**
 - 🌱 Learning **Java, JDBC, MySQL, and Web Development**
 - 🔭 Working on projects like **Expense Tracker** and **Password Generator**
